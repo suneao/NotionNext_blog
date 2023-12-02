@@ -33,10 +33,7 @@ const CONFIG = {
     'Gosesummer',
     '🍺TAVERN',
     '🤖GoseGPT',
-    '🏃脚踏实地行动派',
-    '🏠智能家居小能手',
-    '🤖️数码科技爱好者',
-    '🧱团队小组发动机'
+    '🐱ᓚᘏᗢ'
   ],
   HEO_INFO_CARD_URL: 'https://github.com/suneao', // 个人资料底部按钮链接
   
@@ -88,7 +85,7 @@ const CONFIG = {
   HEO_POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   HEO_POST_LIST_SUMMARY: true, // 文章摘要
   HEO_POST_LIST_PREVIEW: false, // 读取文章预览
-  HEO_POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
+  HEO_POST_LIST_IMG_CROSSOVER: false, // 博客列表图片左右交错
 
   HEO_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
   HEO_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
