@@ -47,7 +47,7 @@ const CONFIG = {
       img_1: '/images/heo/20239df3f66615b532ce571eac6d14ff21cf072602.webp',
       color_1: '#989bf8',
       title_2: 'DaVinci',
-      img_2: '/images/heo/davinci-resolve.svg',
+      img_2: '/images/davinci-resolve.svg',
       color_2: '#1d2f42'
     },
     {
