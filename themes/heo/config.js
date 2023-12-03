@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '梦醒时分',
   HEO_HERO_TITLE_2: '胡言乱语',
   HEO_HERO_TITLE_3: 'GOSESUMMER.TOP',
-  HEO_HERO_TITLE_4: '教程分享',
+  HEO_HERO_TITLE_4: '我的主页',
   HEO_HERO_TITLE_5: '猫猫ᓚᘏᗢ',
   HEO_HERO_TITLE_LINK: 'https://www.gosesummer.top',
 
